@@ -1,5 +1,4 @@
 package com.GurpreetKaur;
-
 public class StringWords {
     public static void main(java.lang.String[] args){
         java.lang.String str = "hello hello how Are you HELLO are there happy test you";
